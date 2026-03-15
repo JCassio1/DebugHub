@@ -2,7 +2,11 @@
   "name": "debughub",
   "displayName": "DebugHub",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/debughub.git"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
