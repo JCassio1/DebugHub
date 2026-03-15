@@ -3,6 +3,7 @@
   "displayName": "DebugHub",
   "description": "",
   "version": "1.0.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/microsoft/debughub.git"
