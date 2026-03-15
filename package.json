@@ -14,14 +14,7 @@
     "Other"
   ],
   "activationEvents": [
-    "*",
-    "onStartupFinished",
-    "onCommand:debughub.openPopover",
-    "onCommand:debughub.startDebugConfiguration",
-    "onCommand:debughub.stopDebugSession",
-    "onCommand:debughub.startSelectedDebugConfigurations",
-    "onCommand:debughub.stopAllDebugSessions",
-    "onCommand:debughub.startAllDebugConfigurations"
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
