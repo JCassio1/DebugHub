@@ -1,6 +1,4 @@
-![DebugHub Banner](./media/debughub-banner.png)
-
-# ![DebugHub Logo](./media/debughub-logo.png) DebugHub
+![DebugHub Banner](https://raw.githubusercontent.com/JCassio1/DebugHub/main/media/debughub-banner.png)
 
 Manage all your VS Code debug configurations in one place. DebugHub simplifies debugging in monorepos and multi-service environments by providing a unified interface to view, manage, and control all your debuggers at once.
 

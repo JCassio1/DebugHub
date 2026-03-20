@@ -2,6 +2,10 @@
 
 All notable changes to the "debughub" extension will be documented in this file.
 
+## Version 1.0.1
+
+- Correct readme url links
+
 ## Version 1.0.0
 
 - Added DebugHub status bar indicator with active debugger count and quick access command
