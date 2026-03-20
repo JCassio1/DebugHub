@@ -2,6 +2,7 @@
   "name": "debughub",
   "displayName": "DebugHub",
   "version": "1.0.0",
+  "publisher": "JoselsonDias",
   "license": "MIT",
   "icon": "media/debughub-logo.png",
   "description": "Manage all your VS Code debug configurations in one place. Start, stop, and monitor multiple debuggers simultaneously — built for monorepos.",
