@@ -1,9 +1,17 @@
 {
   "name": "debughub",
   "displayName": "DebugHub",
-  "description": "",
   "version": "1.0.0",
   "license": "MIT",
+  "icon": "media/debughub-logo.png",
+  "description": "Manage all your VS Code debug configurations in one place. Start, stop, and monitor multiple debuggers simultaneously — built for monorepos.",
+  "keywords": [
+    "debug",
+    "monorepo",
+    "debugger",
+    "launch",
+    "multi-debug"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/microsoft/debughub.git"
@@ -12,7 +20,7 @@
     "vscode": "^1.110.0"
   },
   "categories": [
-    "Other"
+    "Debuggers"
   ],
   "activationEvents": [
     "onStartupFinished"
