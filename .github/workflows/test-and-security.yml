@@ -35,7 +35,7 @@ jobs:
         run: npm run compile
 
       - name: Run extension tests
-        run: npm test
+        run: xvfb-run -a npm test
         env:
           CI: true
 
