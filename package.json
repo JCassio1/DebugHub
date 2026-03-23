@@ -55,6 +55,21 @@
         "icon": "$(play)"
       },
       {
+        "command": "debughub.startDebugGroup",
+        "title": "DebugHub: Start Debug Group",
+        "icon": "$(play)"
+      },
+      {
+        "command": "debughub.stopDebugGroup",
+        "title": "DebugHub: Stop Debug Group",
+        "icon": "$(primitive-square)"
+      },
+      {
+        "command": "debughub.assignDebugGroup",
+        "title": "DebugHub: Assign Debug Group",
+        "icon": "$(folder)"
+      },
+      {
         "command": "debughub.stopAllDebugSessions",
         "title": "DebugHub: Stop All Debuggers",
         "icon": "$(debug-stop)"
