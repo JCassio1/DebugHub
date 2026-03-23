@@ -2,6 +2,16 @@
 
 All notable changes to the "debughub" extension will be documented in this file.
 
+## Version 1.1.0
+
+- Added reliable workspace support by reading launch configurations with correct scope resolution (`workspace` and `workspaceFolder` values only)
+- Fixed grouped launch start behavior by launching with full debug configuration objects instead of name-only lookups
+- Users can now group debuggers and control each group independently
+- Added visible popover toolbar hint for `Start All | Stop All | Create Group`
+- Improved create-group flow so users can select configurations when none are preselected
+- Added status bar ownership guard to avoid duplicate DebugHub footer triggers in mixed extension-host scenarios
+- Expanded unit test coverage for scoped configuration reads, group metadata updates/migration, and grouped quick-pick behavior
+
 ## Version 1.0.1
 
 - Correct readme url links
